@@ -1,5 +1,5 @@
 /*
- * 
+ *HOLA
  * Docente: Magda Pineda 
  * Fundación Universitaria Juan de Castellanos
  * Asignatura: Programación Orientada a Objetos
